@@ -33,7 +33,7 @@
 ## 🐼 GitHub Stats 💹
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Himanshuy1&show_icons=true&theme=tokyonight" alt="Mayank's GitHub Stats" height="175px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Himanshuy1&show_icons=true&theme=tokyonight" alt="Himanshu's GitHub Stats" height="175px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshuy1&layout=compact&theme=tokyonight&hide=html,css" alt="Most Used Languages" height="175px" />
 </p>
 
