@@ -28,17 +28,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
----
-
-## 🐼 GitHub Stats 💹
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Himanshuy1&show_icons=true&theme=tokyonight" alt="Himanshu's GitHub Stats" height="175px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshuy1&layout=compact&theme=tokyonight&hide=html,css" alt="Most Used Languages" height="175px" />
-</p>
-
----
-
 ### 📬 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-yadav-4363372a6)
 [![Mail](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshuyadavtech1@gmail.com)
